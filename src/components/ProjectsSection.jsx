@@ -54,7 +54,7 @@ const projects = [
     id: 6,
     title: "Cricket WC Insights Dashboard",
     description:
-      "A ML Based application used to check Water health like it is drinkable or not & also checks its conductivity. ",
+      "An interactive data analytics dashboard built using Google Looker studio with datsets from Kaggle to visualize team performance , player statistics, and historical trends in WC ",
     image: "/projects/project6.png",
     tags: ["Google Looker Studio","Kaggle", "Data Visualization"],
     demoUrl: "#",
